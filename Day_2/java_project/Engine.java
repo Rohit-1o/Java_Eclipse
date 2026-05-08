@@ -1,5 +1,4 @@
 package java_project;
-
 public class Engine {
 	private String power;
 	private String type;
