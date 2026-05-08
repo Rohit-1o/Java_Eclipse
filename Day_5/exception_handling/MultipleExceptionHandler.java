@@ -1,5 +1,4 @@
 package exception_handling;
-
 public class MultipleExceptionHandler {
 
 	public static void main(String[] args) {
