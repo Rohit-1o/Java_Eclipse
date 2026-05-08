@@ -1,5 +1,4 @@
 package sring_builder;
-
 public class StringBuilderMain {
 
 	public static void main(String[] args) {
